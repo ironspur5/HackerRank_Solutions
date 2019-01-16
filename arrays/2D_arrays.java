@@ -20,7 +20,7 @@ public class Solution {
          for(int i=0; i<5; i++){
          for(int j=0; j<5; j++){
          if(i!=5||j!=5){
-         int val = arr[i][j]+arr[i-1][j-1]+arr[i-1][j]+arr[i-1][j+1]                             +arr[i+1][j-1]+arr[i+1][j]+arr[i+1][j+1];
+         int val = arr[i][j]+arr[i-1][j-1]+arr[i-1][j]+arr[i-1][j+1]+arr[i+1][j-1]+arr[i+1][j]+arr[i+1][j+1];
          if(val>HGS){
          HGS=val;
          }
