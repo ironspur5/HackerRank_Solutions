@@ -47,7 +47,8 @@ public class Solution {
         
         /*
          We can sort this array and then find the minimum absolute value of the
-         elements to the right of each element, because they will always be            smaller than something further away, thus reducing the number of              comparisons we need to do
+         elements to the right of each element, because they will always be smaller 
+         than something further away, thus reducing the number of comparisons we need to do
          */
         
         Arrays.sort(arr);
