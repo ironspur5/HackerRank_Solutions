@@ -43,7 +43,7 @@ public class Solution {
         // start position
         for(int i=0; i<a.length; ++i){
             /*
-             ++i is the pre-increment operator which increments the value                  before using it in an expression
+             ++i is the pre-increment operator which increments the value before using it in an expression
              */
             result[i] = a[(i + mod) % a.length];
         }
