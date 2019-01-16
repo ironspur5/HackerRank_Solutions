@@ -30,7 +30,8 @@ public class Solution {
             
             else{
                 altitude--;
-                if(altitude==-1){ //putting the check here for -1 avoids counting a                                        //valley twice (aka at the entrance and exit)
+                if(altitude==-1){ 
+                    //putting the check here for -1 avoids counting a valley twice (aka at the entrance and exit)
                     num_valleys++;
                 }
             }
