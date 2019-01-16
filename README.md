@@ -1,5 +1,5 @@
 # HackerRank_Solutions
-Solutions for select programming questions on HackerRank.com
+Solutions for select programming questions on HackerRank.com. All written in Java 8.
 
 ARRAYS:
 
