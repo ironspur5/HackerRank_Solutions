@@ -44,7 +44,11 @@ public class Solution {
         
         /*
          Initial Thoughts: Since we only care about finding the smallest diff
-         between the min and the max, we can just compare the start and end point      of all reasonable pairs. To limit the number of comparisons we make, we       can first sort our list that way, we know that all interior elements of       the list are also valid. Then we can do a linear check to see what the        min diff subarray is.
+         between the min and the max, we can just compare the start and end point      
+         of all reasonable pairs. To limit the number of comparisons we make, we       
+         can first sort our list that way, we know that all interior elements of       
+         the list are also valid. Then we can do a linear check to see what the        
+         min diff subarray is.
          */
         
         Arrays.sort(arr);
