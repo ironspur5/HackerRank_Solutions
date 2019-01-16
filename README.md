@@ -54,6 +54,7 @@ SORTING:
 Mark and Toys:
 https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
 
+ADD THIS
 Bubble Sort:
 https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
 
@@ -64,5 +65,17 @@ https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview
 
 Alternating Characters:
 https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings
+
+TREES:
+
+Height of a Binary Tree:
+https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees
+
+Binary Search Tree Lowest Common Ancestor:
+https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees
+
+WARMUP CHALLENGES:
+
+
 
 
