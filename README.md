@@ -33,3 +33,11 @@ https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/pr
 Max Min:
 https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
 
+LINKED LISTS
+
+Insert a Node at a Specific Position in a Linked List:
+https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists
+
+Inserting a Node Into a Sorted Doubly Linked List:
+https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists
+
