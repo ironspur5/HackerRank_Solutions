@@ -16,7 +16,8 @@ public class Solution {
         if (value == null) return;
         String[] words = value.split("\\s+");
         
-        //regex pattern to pass to the java.lang.String.split() method to split a String into an Array of substrings using all whitespace characters (' ', '\t', '\n', etc.) as delimiters
+        //regex pattern to pass to the java.lang.String.split() method to split a String into an Array of 
+        //substrings using all whitespace characters (' ', '\t', '\n', etc.) as delimiters
         
         /*myString.split("\\s+");
         This groups all white spaces as a delimiter.
